@@ -1,0 +1,97 @@
+{
+  "page": {
+    "width": 1123,
+    "height": 794
+  },
+  "texts": {
+    "title": {
+      "x": 561,
+      "y": 190,
+      "fontSize": 40,
+      "fontFamily": "Cairo",
+      "fontWeight": 800,
+      "color": "#0B2A45",
+      "align": "center"
+    },
+    "name": {
+      "x": 561,
+      "y": 280,
+      "fontSize": 56,
+      "fontFamily": "Cairo",
+      "fontWeight": 800,
+      "color": "#D9771F",
+      "align": "center"
+    },
+    "program": {
+      "x": 561,
+      "y": 350,
+      "fontSize": 30,
+      "fontFamily": "Cairo",
+      "fontWeight": 700,
+      "color": "#2F5DA8",
+      "align": "center"
+    },
+    "course": {
+      "x": 561,
+      "y": 410,
+      "fontSize": 54,
+      "fontFamily": "Cairo",
+      "fontWeight": 800,
+      "color": "#2F5DA8",
+      "align": "center"
+    },
+    "date": {
+      "x": 561,
+      "y": 490,
+      "fontSize": 28,
+      "fontFamily": "Cairo",
+      "fontWeight": 700,
+      "color": "#0B2A45",
+      "align": "center"
+    },
+    "hours": {
+      "x": 561,
+      "y": 540,
+      "fontSize": 28,
+      "fontFamily": "Cairo",
+      "fontWeight": 700,
+      "color": "#0B2A45",
+      "align": "center"
+    },
+    "closing": {
+      "x": 561,
+      "y": 585,
+      "fontSize": 28,
+      "fontFamily": "Cairo",
+      "fontWeight": 800,
+      "color": "#0F6FAF",
+      "align": "center"
+    },
+    "signer_title": {
+      "x": 190,
+      "y": 560,
+      "fontSize": 22,
+      "fontFamily": "Cairo",
+      "fontWeight": 800,
+      "color": "#0B2A45",
+      "align": "center"
+    },
+    "signer_name": {
+      "x": 190,
+      "y": 595,
+      "fontSize": 26,
+      "fontFamily": "Cairo",
+      "fontWeight": 900,
+      "color": "#0B2A45",
+      "align": "center"
+    }
+  },
+  "images": {
+    "signature": {
+      "x": 80,
+      "y": 610,
+      "width": 260,
+      "height": 170
+    }
+  }
+}
